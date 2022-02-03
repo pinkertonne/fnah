@@ -82,3 +82,70 @@ Received Import Request.
 Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85059f4f9e1a832ed95adaa0d25c5c4c') in 0.008080 seconds
   Import took 0.010136 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 164.059719 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(3b0b3bf58042e459783ae6738c240c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(3b0b3bf58042e459783ae6738c240c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb4cf296eaec95aaa6eb604811e8e9f') in 0.004443 seconds
+  Import took 0.007892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.498613 seconds.
+  path: Assets/Scripts/Shitheads.cs
+  artifactKey: Guid(5d57cdfdf760646dbb5bd98392624395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shitheads.cs using Guid(5d57cdfdf760646dbb5bd98392624395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68fa07d78e3434fc11ec2ef91e6267dd') in 2.282098 seconds
+  Import took 2.285470 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000339 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.1 MB.
+System memory in use after: 114.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 2.576585 ms (FindLiveObjects: 0.224380 ms CreateObjectMapping: 0.062280 ms MarkObjects: 2.232042 ms  DeleteObjects: 0.056476 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1037.879657 seconds.
+  path: Assets/Scripts/Shitheads.cs
+  artifactKey: Guid(5d57cdfdf760646dbb5bd98392624395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Shitheads.cs using Guid(5d57cdfdf760646dbb5bd98392624395) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0307f3bdfd9759e8c1cb762682aa57') in 0.006112 seconds
+  Import took 0.007874 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000466 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.870 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.3 MB.
+System memory in use after: 114.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1564.
+Total: 1.703898 ms (FindLiveObjects: 0.221637 ms CreateObjectMapping: 0.042032 ms MarkObjects: 1.393283 ms  DeleteObjects: 0.045861 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
